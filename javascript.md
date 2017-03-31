@@ -16,6 +16,7 @@
 ## Cheat sheet & references
 - [MDN reference](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 - [Operators sheet pdf](https://drive.google.com/file/d/0Bz2Vn-SAMQgYZXUzcThWbEg2UWs/view)
+- [Canvas cheat sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
 
 ## Libraries
 - [vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) : Vanilla JS is a fast, lightweight, cross-platform tool for building incredible, powerful JavaScript applications.
