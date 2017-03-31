@@ -1,1 +1,3 @@
-"#Design" 
+# Design
+## Cheat Sheets & references
+- [Canvas cheat sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
